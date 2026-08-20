@@ -1,0 +1,12 @@
+/* Tailwind-instap: importeert alle Tailwind-lagen (base, components, utilities) */
+@import 'tailwindcss';
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}

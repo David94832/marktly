@@ -10,6 +10,11 @@ node_modules/
 dist/
 build/
 
+# SQLite database (backend/data/marktly.db + WAL/SHM files)
+*.db
+*.db-shm
+*.db-wal
+
 # Logs
 *.log
 npm-debug.log*
