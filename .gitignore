@@ -15,6 +15,9 @@ build/
 *.db-shm
 *.db-wal
 
+# Geüploade productfoto's
+backend/uploads/
+
 # Logs
 *.log
 npm-debug.log*
